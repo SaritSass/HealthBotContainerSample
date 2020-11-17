@@ -1,5 +1,5 @@
 .header {
-  background: #0071ca;
+  background: #3cddff;
   height: 100px;
   box-shadow: 0px 5px 5px #888888 !important;
   z-index: 1000;
@@ -19,7 +19,7 @@
 
 .header .title {
   font-family: 'Segoe Semibold', Calibri, 'Helvetica Neue', Arial, sans-serif;
-  color: white;
+  color: black;
   font-size: 30px;
   font-weight: 700;
   line-height: 40px;
